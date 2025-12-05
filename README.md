@@ -11,7 +11,6 @@ Live Demo Video (1 min) • 100% Working Project • Ready for Submission
 
 ## Project Preview
 
-https://github.com/user-attachments/assets/your-screenshot-link-here
 
 | Login Screen                 | Admin Dashboard                 | Appointment Booking             |
 |-----------------------------|----------------------------------|----------------------------------|
